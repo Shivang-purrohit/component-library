@@ -1,0 +1,97 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Fascinate&family=Kdam+Thmor+Pro&family=Montserrat:ital,wght@1,300;1,400;1,700&family=Pacifico&display=swap');
+
+.container{
+  border: 2px solid transparent ;
+  border-radius: 0rem 0rem .5rem .5rem;
+  height: 5rem;
+  padding: 0.5rem;
+  font-family: 'Bebas Neue', cursive;
+  background-color: #FF869E;
+ 
+ 
+}
+.above{
+  font-size: x-large;
+
+ 
+}
+
+.table1{
+  list-style: none;
+  font-size: larger;
+
+}
+
+.container-center{
+  text-align: center;
+  font-family: 'Bebas Neue', cursive;
+  letter-spacing: 0.25rem;
+ 
+}
+
+
+.images{
+  width: 20%;
+  padding: 2rem;
+  
+ 
+}
+
+.container-inside{
+ text-align: center;
+ padding: 2rem;
+ margin: 2rem;
+}
+
+.btn{
+  border: 2px solid;
+  padding: 1rem;
+  color: rgb(34, 34, 70);
+  border-radius: 0.5rem;
+  border-color:rgb(34, 34, 70);
+  text-decoration: none;
+  position: relative;
+  top: 20px;
+  background-color:#ff869ec1;
+}
+.btn:hover{
+  background-color:#FF869E ;
+}
+
+.github-side{
+  
+  text-align: right;
+  position: relative;
+  right: 40px;
+  bottom: 110px;
+  font-size: 35px;
+  
+
+  
+}
+.fa-brands{
+  color: black;
+}
+
+
+.image-logo{
+  width: 4%;
+  position:relative;
+  bottom: 50px;
+}
+
+
+.p-tag{
+  margin-left: 4rem;
+  text-indent: 1rem;
+  letter-spacing: 30px;
+  margin-top: 1rem;
+  
+}
+
+.welcome{
+  padding-bottom: 2rem;
+}
+
+
